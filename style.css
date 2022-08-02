@@ -3,3 +3,40 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header,p{
+  text-align: center;
+
+
+}
+
+p {
+  text-align: center;
+  width: 800px;
+  margin: auto;
+  padding-bottom: 40px;
+  
+}
+
+div  {
+ float: left;
+ background: red;
+ text-align: center;
+ padding-left: 10px;
+ width: 25%;
+ display: table;
+
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+figure {
+  text-align: center;
+}
+nav a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background: gray; 
+}
